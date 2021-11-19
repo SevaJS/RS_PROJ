@@ -1,0 +1,10 @@
+body {
+    background-size: cover;
+    height: 100%;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 100px;
+    padding: 30px;
+    background-color: #83d44d;
+}
